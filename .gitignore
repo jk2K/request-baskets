@@ -28,3 +28,6 @@ _testmain.go
 vendor
 rbaskets
 .DS_Store
+
+.idea
+baskets.db
